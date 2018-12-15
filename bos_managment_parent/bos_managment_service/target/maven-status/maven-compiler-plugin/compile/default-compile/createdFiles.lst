@@ -1,0 +1,8 @@
+cn\whj\service\StandardService.class
+cn\whj\service\impl\StandardServiceImpl.class
+cn\whj\service\CourierService.class
+cn\whj\service\impl\CourierServiceImpl.class
+cn\whj\service\impl\AreaServiceImpl.class
+cn\whj\service\impl\SubAreaServiceImpl.class
+cn\whj\service\AreaService.class
+cn\whj\service\SubAreaService.class
